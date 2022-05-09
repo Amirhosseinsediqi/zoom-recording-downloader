@@ -1,0 +1,20 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore app-env.py
+appenv.py
+
+# Ignore token.py, if present
+token.py
+
+# Ignore Python Module Cache
+__pycache__/*
+
+# Ignore 'downloads' folder
+*downloads*
+
+# Ignore 'completed-downloads.log' file
+completed-downloads.log
+
+# Ignore Visual Studio Code Workspace
+*.code-workspace
