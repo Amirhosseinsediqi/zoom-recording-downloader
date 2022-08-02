@@ -7,9 +7,7 @@
 #               This Python script uses the JSON Web Token (JWT)
 #               method of accessing the Zoom API
 # Created:      2020-04-26
-# Author:       Ricardo Rodrigues
-# Website:      https://github.com/ricardorodrigues-ca/zoom-recording-downloader
-# Forked from:  https://gist.github.com/danaspiegel/c33004e52ffacb60c24215abf8301680
+# Author:       Ricardo Rodrigues and amirhossein sediqi
 
 # Import TQDM progress bar library
 from tqdm import tqdm
